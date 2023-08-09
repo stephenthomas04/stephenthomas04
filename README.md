@@ -51,7 +51,7 @@
 <details>
  <summary><h2>👨‍💻 Interested In</h2></summary>
     <h4>- Mobile Apps</h4>
-    <h4>- Full-Stack Developer</h4>
+    <h4>- Full-Stack Developing</h4>
     <h4>- API's</h4>
     <h4>- Machine Learning</h4>
     <h4>- Artificial Intelligence</h4>
