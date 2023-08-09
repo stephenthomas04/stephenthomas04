@@ -1,7 +1,7 @@
 <div align="left">
 <h1 align="left">Hi, I'm Stephen Thomas <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
 
-**`a student, programmer, innovator 📍 Chicago, IL`**
+**`a student, programmer, debater 📍 Chicago, IL`**
 
 <h4 align="left">As a high school junior, I have had the opportunity to explore various fields of interest, including Computer Science. I have taken three computer science courses, which introduced me to potent programming languages like Python, React, and Java. My passion for computer science inspired me to partake in hackathons, where I achieved first place twice. Additionally, I have worked on personal projects to showcase my passion and skills in this field. These diverse experiences have allowed me to expand my skills, learn new things, and make new friends. As I progress through high school and beyond, I eagerly anticipate the chance to continue exploring my interests and seizing new opportunities for growth and development
   
