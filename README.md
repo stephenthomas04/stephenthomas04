@@ -3,7 +3,7 @@
 
 **`a student, programmer, innovator 📍 Chicago, IL`**
 
-<h4 align="left">Hi, I'm Stephen. A driven undergraduate freshman at Purdue University with a passion for turning innovative ideas into reality. 
+<h4 align="left">Hi, I'm Stephen. A driven undergraduate student at Purdue University with a passion for turning innovative ideas into reality. 
   With my various projects, internships, and courses, I have developed a strong background in Python, React, and Java. I'm particularly interested in Computer Science, Data Science, AI & IT. 
   Looking to meet with like-minded individuals and explore opportunities to contribute to the future of technology. Let's build something great together!
   
