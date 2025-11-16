@@ -37,7 +37,8 @@
 #
 
 ## 📝 Links
-    Linkedin: https://www.linkedin.com/in/stephen-thomas042306/
+    Linkedin: https://www.linkedin.com/in/stephenthomas04/
+    Portfolio: https://stephenthomas04.com/
     Youtube: https://www.youtube.com/channel/UCnonZnHz4thH3OV49W4SM4w
 
     
